@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KaradiMaman.aternos.me",
+    "ip": "KaradiMaman.aternos.me:47726",
     "port": 47726,
     "version": "",
     "try-creative": false
